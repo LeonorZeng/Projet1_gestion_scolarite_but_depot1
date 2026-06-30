@@ -17,7 +17,8 @@ l'enregistrement de leurs notes et la validation de leur passage à l'année sui
 ## 📦 Installation & Utilisation
 ```bash
 gcc -o gestion_scolarite main.c
-./gestion_scolarite```
+./gestion_scolarite
+```
 
 ## 👤 Contexte
 Projet réalisé dans le cadre du BUT Informatique - Réalisation d'Applications (2025-2026)
