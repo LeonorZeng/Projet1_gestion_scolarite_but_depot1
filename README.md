@@ -21,4 +21,5 @@ gcc -o gestion_scolarite main.c
 ```
 
 ## 👤 Contexte
-Projet réalisé en binôme dans le cadre du BUT Informatique - Réalisation d'Applications (2025-2026)
+Projet réalisé en binôme dans le cadre du BUT Informatique - (Octobre-Novembre 2025)
+
